@@ -5,3 +5,7 @@
 如有资源侵犯等事项，请发送相关请求及相关证据到hst1368@outlook.com请求删除
 
 后期如有变动会及时更改
+
+#### 當下使用的網站頁面源碼為
+綾川星凜 [AyagawaSeirin](https://github.com/AyagawaSeirin/)
+
